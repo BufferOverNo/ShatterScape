@@ -19,7 +19,7 @@ public class ServerConfiguration
 		/**
 		 * True to enable bots.
 		 */
-		public final static boolean ENABLE_BOTS = false;
+		public final static boolean ENABLE_BOTS = true;
 
 		/**
 		 * True to enable discord integration.
