@@ -1,0 +1,42 @@
+# King black dragon
+50		536	2509	2509
+# Black dragon
+54		1747		536
+# Red dragon
+53		1749		536
+# Blue dragon
+55		1751	536
+# Green dragon
+941		1753	536
+# Bronze dragon
+1590		2349	2349	2349	2349	2349	536
+# Iron dragon
+1591		2351	2351	2351	2351	2351	536
+# Steel dragon
+1592		2353	2353	2353	2353	2353	536
+# Lava dragon
+11260		18821	18823	1747
+# Dagannoth kings
+2881		6155	6729
+2882		6155	6729
+2883		6155	6729
+# Baby blue dragon
+52		534
+# Giant bat
+78		530
+#Wolf
+95		2859
+#White Wolf
+96		2859
+#White Wolf
+97		2859
+#Cow
+81		2132	1739	526	
+#Chicken
+41		2138	526
+#Chaos druid
+181		526
+#Baby blue dragon
+52		534
+#Baby red dragon
+1589		534

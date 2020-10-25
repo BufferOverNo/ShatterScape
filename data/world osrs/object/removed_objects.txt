@@ -1,0 +1,181 @@
+// List of object coordinates removed.
+
+// Cart at Edgeville between the two buildings.
+3088 3509 0
+
+// Cart at Edgeville between the two buildings.
+3089 3509 0
+
+// Cart at Edgeville between the two buildings.
+3088 3510 0
+
+// Cart at Edgeville between the two buildings.
+3089 3510 0
+
+// Cart at Edgeville between the two buildings.
+3088 3511 0
+
+// Cart at Edgeville between the two buildings.
+3089 3511 0
+
+// Box that is under the table in Edgeville general store.
+3080 3510 0
+
+// Table in Edgeville general store.
+3081 3510 0
+
+// Table in Edgeville general store.
+3079 3510 0
+
+// Table in Edgeville general store.
+3082 3510 0
+
+// Table in Edgeville general store.
+3083 3510 0
+
+// Table in Edgeville general store.
+3078 3510 0
+
+// Ladder in Edgeville general store
+3077 3512 0
+
+// Tree in Edgeville north of bank.
+3090 3503 0
+
+// Tree in Edgeville north of bank.
+3090 3504 0
+
+// Tree in Edgeville north of bank.
+3091 3503 0
+
+// Tree in Edgeville north of bank.
+3091 3504 0
+
+// Wilderness sign south east of Edgeville general store
+3085 3506 0
+
+// Stool at Entrana bank
+2857 3335 0
+
+// Fence removed from Entrana.
+2838 3343 0
+
+// Wall in Edgeville building.
+3090 3508 0
+
+// Wall in Edgeville building.
+3090 3509 0
+
+// Wall in Edgeville building.
+3091 3508 0
+
+// Wall in Edgeville building.
+3091 3509 0
+
+// Box in Edgeville general store.
+3084 3509 0
+
+// Box in Edgeville general store.
+3084 3510 0
+
+// Box in Edgeville general store.
+3084 3512 0
+
+// Book shelf in Edgeville general store.
+3077 3507 0
+
+// Book shelf in Edgeville general store.
+3079 3507 0
+
+// Lamp stand in Edgeville general store.
+3083 3507 0
+
+// Objects removed in the Edgeville building that is north of Edgeville bank.
+3091 3510 0
+3091 3507 0
+3091 3513 0
+3092 3513 0
+3093 3513 0
+3094 3513 0
+3099 3513 0
+3096 3513 0
+3097 3513 0
+3098 3513 0
+3095 3513 0
+3100 3513 0
+3091 3511 0
+3093 3507 0
+3096 3507 0
+3097 3507 0
+3098 3507 0
+3099 3507 0
+3095 3507 0
+3094 3507 0
+3093 3509 0
+3096 3511 0
+3099 3512 0
+3093 3508 0
+3094 3508 0
+3095 3508 0
+3094 3509 0
+3093 3510 0
+3094 3510 0
+3100 3507 0
+3100 3512 0
+3100 3508 0
+3090 3510 0
+
+// Book shelf in Edgeville general store.
+3076 3509 0
+
+// Book shelf in Edgeville general store.
+3076 3510 0
+
+// Book shelf in Edgeville general store.
+3076 3511 0
+
+// Book shelf in Edgeville general store.
+3076 3512 0
+
+// Tile beside chest at Duel arena.
+3382 3269 0
+
+// Barrier tiles at General store.
+3085 3509 0
+3085 3510 0
+
+
+// Entrana, around the old oak tree beside Entrana bank.
+2851 3332 0
+2851 3333 0
+2851 3334 0
+
+// Entrana smithing area.
+2832 3349 0
+
+// Trees near to Edgeville wilderness.
+3076 3516 0
+3076 3517 0
+3077 3516 0
+3077 3517 0
+
+3082 3516 0
+3082 3517 0
+3083 3516 0
+3083 3517 0
+
+3090 3516 0
+3090 3517 0
+3091 3516 0
+3091 3517 0
+
+3097 3516 0
+3097 3517 0
+3098 3516 0
+3098 3517 0
+
+// Under Mandrith at Resource wilderness area
+3183 3945 0
+
+// South of Wilderness resource gate
+3184 3944 0

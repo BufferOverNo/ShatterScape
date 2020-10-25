@@ -1,0 +1,626 @@
+[
+	{
+		"npc_name": "Pvp task master",
+		"npc_type": 11259,
+		"x": 3082,
+		"y": 3507,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Mandrith",
+		"npc_type": 11261,
+		"x": 3183,
+		"y": 3945,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Cleaner",
+		"npc_type": 5916,
+		"x": 3191,
+		"y": 3927,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Kamfreena",
+		"npc_type": 4289,
+		"x": 2845,
+		"y": 3541,
+		"height": 2,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Vannaka",
+		"npc_type": 1597,
+		"x": 3094,
+		"y": 3499,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Thessalia",
+		"npc_type": 548,
+		"x": 3091,
+		"y": 3493,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Bob",
+		"npc_type": 519,
+		"x": 3100,
+		"y": 3513,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Sir Prysin",
+		"npc_type": 883,
+		"x": 3079,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Guide",
+		"npc_type": 7949,
+		"x": 3076,
+		"y": 3510,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Fair",
+		"npc_type": 534,
+		"x": 3076,
+		"y": 3508,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Horvik",
+		"npc_type": 549,
+		"x": 3081,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Teleporter",
+		"npc_type": 5196,
+		"x": 3085,
+		"y": 3508,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 494,
+		"x": 3098,
+		"y": 3492,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 495,
+		"x": 3096,
+		"y": 3492,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 496,
+		"x": 3096,
+		"y": 3491,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 497,
+		"x": 3096,
+		"y": 3489,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Gundai (At Magebank)",
+		"npc_type": 902,
+		"x": 2541,
+		"y": 4715,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Aggie (Draynor)",
+		"npc_type": 922,
+		"x": 3086,
+		"y": 3258,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 162,
+		"x": 2481,
+		"y": 3429,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 2649,
+		"x": 2479,
+		"y": 3437,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Martin the Master Gardener",
+		"npc_type": 3299,
+		"x": 2819,
+		"y": 3336,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Mage of Zamorak",
+		"npc_type": 2258,
+		"x": 2861,
+		"y": 3374,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Shrimp",
+		"npc_type": 316,
+		"x": 2876,
+		"y": 3342,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Lobster",
+		"npc_type": 324,
+		"x": 2879,
+		"y": 3339,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Dark crab",
+		"npc_type": 325,
+		"x": 3045,
+		"y": 3702,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Monkfish",
+		"npc_type": 326,
+		"x": 2879,
+		"y": 3335,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Shark",
+		"npc_type": 334,
+		"x": 2876,
+		"y": 3331,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Dark crab",
+		"npc_type": 325,
+		"x": 3183,
+		"y": 3926,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Monkfish",
+		"npc_type": 326,
+		"x": 3187,
+		"y": 3927,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Shark",
+		"npc_type": 334,
+		"x": 3181,
+		"y": 3926,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Kaqemeex",
+		"npc_type": 455,
+		"x": 2921,
+		"y": 3491,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Hickton",
+		"npc_type": 575,
+		"x": 2821,
+		"y": 3442,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Wilfred",
+		"npc_type": 4906,
+		"x": 3228,
+		"y": 3245,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ajjat",
+		"npc_type": 4288,
+		"x": 2851,
+		"y": 3554,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Sloane",
+		"npc_type": 4297,
+		"x": 2856,
+		"y": 3552,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Head chef",
+		"npc_type": 847,
+		"x": 3142,
+		"y": 3446,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Armour salesman",
+		"npc_type": 682,
+		"x": 2669,
+		"y": 3434,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Brother Jered",
+		"npc_type": 802,
+		"x": 3051,
+		"y": 3487,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Surgeon General Tafani",
+		"npc_type": 961,
+		"x": 3373,
+		"y": 3276,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Robe Store Owner",
+		"npc_type": 1658,
+		"x": 2590,
+		"y": 3083,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Master Fisher",
+		"npc_type": 308,
+		"x": 2596,
+		"y": 3403,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ignatius Vulcan",
+		"npc_type": 4946,
+		"x": 2721,
+		"y": 3433,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Master Crafter",
+		"npc_type": 805,
+		"x": 2932,
+		"y": 3285,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Thurgo",
+		"npc_type": 604,
+		"x": 2999,
+		"y": 3145,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Dwarf",
+		"npc_type": 3295,
+		"x": 3020,
+		"y": 3334,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Aubury",
+		"npc_type": 553,
+		"x": 3253,
+		"y": 3402,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Duradel",
+		"npc_type": 8275,
+		"x": 2869,
+		"y": 2982,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Melee combat tutor",
+		"npc_type": 705,
+		"x": 3218,
+		"y": 3238,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Martin Thwait",
+		"npc_type": 2270,
+		"x": 3047,
+		"y": 4973,
+		"height": 1,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Cap'n Izzy No-Beard",
+		"npc_type": 437,
+		"x": 2808,
+		"y": 3192,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+		{
+		"npc_name": "TzHaar-Mej-Jal",
+		"npc_type": 2617,
+		"x": 2437,
+		"y": 5169,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "TzHaar Ket-Zuh",
+		"npc_type": 2619,
+		"x": 2445,
+		"y": 5178,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 2650,
+		"x": 2464,
+		"y": 3501,
+		"height": 3,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 2650,
+		"x": 2850,
+		"y": 3498,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 2650,
+		"x": 3318,
+		"y": 3429,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 2650,
+		"x": 3275,
+		"y": 3213,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 2650,
+		"x": 2970,
+		"y": 2974,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 2650,
+		"x": 2547,
+		"y": 2971,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Hans",
+		"npc_type": 0,
+		"x": 3222,
+		"y": 3221,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 1927,
+		"x": 3161,
+		"y": 2977,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 1927,
+		"x": 3163,
+		"y": 2977,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 1927,
+		"x": 3161,
+		"y": 2982,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 1927,
+		"x": 3161,
+		"y": 2981,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 1927,
+		"x": 3162,
+		"y": 2987,
+		"height": 0,
+		"face_action": "NORTH"
+	},
+	{
+		"npc_name": "Jatix",
+		"npc_type": 587,
+		"x": 2810,
+		"y": 3344,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Shopkeeper",
+		"npc_type": 528,
+		"x": 2856,
+		"y": 3338,
+		"height": 0,
+		"face_action": "SOUTH"
+	},
+	{
+		"npc_name": "Drogo dwarf",
+		"npc_type": 579,
+		"x": 3024,
+		"y": 9739,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Ellis",
+		"npc_type": 2824,
+		"x": 2819,
+		"y": 3354,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Void Knight",
+		"npc_type": 3788,
+		"x": 3084,
+		"y": 3511,
+		"height": 0,
+		"face_action": "WEST"
+	},
+	{
+		"npc_name": "TzHaar-Hur-Tel",
+		"npc_type": 2620,
+		"x": 2477,
+		"y": 5147,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sheep",
+		"npc_type": 43,
+		"x": 3048,
+		"y": 3515,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sheep",
+		"npc_type": 43,
+		"x": 3049,
+		"y": 3512,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Sheep",
+		"npc_type": 43,
+		"x": 3052,
+		"y": 3515,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Master Farmer",
+		"npc_type": 2234,
+		"x": 2850,
+		"y": 3372,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_description": "Farmer",
+		"npc_type": 7,
+		"x": 2852,
+		"y": 3370,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Hatius Cosaintus",
+		"npc_type": 11258,
+		"x": 3076,
+		"y": 3512,
+		"height": 0,
+		"face_action": "EAST"
+	},
+	{
+		"npc_name": "Barbarian",
+		"npc_type": 3246,
+		"x": 2551,
+		"y": 3564,
+		"height": 0,
+		"face_action": "ROAM"
+	},
+	{
+		"npc_name": "Shopkeeper",
+		"npc_type": 526,
+		"x": 3080,
+		"y": 3512,
+		"height": 0,
+		"face_action": "SOUTH"
+	}
+]

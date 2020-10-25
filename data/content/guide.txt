@@ -1,0 +1,88 @@
+#Pvm Rare Drops
+Empty.
+
+#Wild protection
+- If you have not left Edgeville 1-5
+wild, then you will
+be protected from raggers, pjers
+and you cannot be attacked after
+you get a kill for 30 seconds.
+--
+- You may also use ::blacklist to
+completely stop raggers.
+--
+- Happy pking!
+
+#Teleporting
+Use your spellbook or the Teleporter
+wizard outside of the Edgeville General
+store.
+
+#Money Making
+- Kill bosses in the wilderness for
+15k+ an hour
+--
+- Kill players for artefacts.
+- Kill safe Bosses.
+- Skill for resources and
+sell it back to shop for profit.
+- Use the spellbook to get to places.
+--
+- Vote for 3,000 blood money using ::vote
+
+#Shops
+They are located in the Edgeville general
+store building and Edgeville bank.
+
+#Altar/Spellbooks
+The altar is located inside the Edgeville
+general store building.
+
+#Rare items
+Click on your Quest tab and then click on
+'Rare drops'
+
+#Untradeables
+You may buy back your lost untradeable
+items by right clicking the Void Knight
+npc inside the Edgeville General store
+building.
+
+#Commands
+You may view the entire command list
+by typing in ::commands
+
+#Achievements
+You may view the achievements through
+your Quest tab.
+
+#Player titles
+Talk to the Fairy at home
+
+#Donate
+Donate for blood money using 
+::donate
+
+#Voting
+You may vote for 3,000 blood money
+using ::vote
+There is also a chance to win Ags/
+Dragon claws!
+
+#Pk bots
+Pk bots have a 30% chance of dropping
+an artefact.
+
+#Set combat skill
+You may change your combat skill
+by right clicking the specific
+skill icon in the skill tab.
+
+--
+No experience will be lost
+if you set your stats to a
+lower level.
+
+#Bob
+Bob is located next to
+the altar.

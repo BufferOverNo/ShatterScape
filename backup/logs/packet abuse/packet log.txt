@@ -1,0 +1,108 @@
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WalkingTileClick, Packet type: 164. Packet size: 5
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WalkingNpcOrObjectClick, Packet type: 98. Packet size: 5
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickObjectFirst, Packet type: 132. Packet size: 6
+A at 10/05/2017, 06:09: AM: objectX: 3381
+A at 10/05/2017, 06:09: AM: objectId: 3195
+A at 10/05/2017, 06:09: AM: objectY: 3267
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WalkingNpcOrObjectClick, Packet type: 98. Packet size: 5
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickObjectFirst, Packet type: 132. Packet size: 6
+A at 10/05/2017, 06:09: AM: objectX: 3381
+A at 10/05/2017, 06:09: AM: objectId: 3194
+A at 10/05/2017, 06:09: AM: objectY: 3269
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending RemoveItem, Packet type: 145. Packet size: 6
+A at 10/05/2017, 06:09: AM: interfaceId: 5382
+A at 10/05/2017, 06:09: AM: removeSlot: 17
+A at 10/05/2017, 06:09: AM: removeId: 2503
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending RemoveItem, Packet type: 145. Packet size: 6
+A at 10/05/2017, 06:09: AM: interfaceId: 5382
+A at 10/05/2017, 06:09: AM: removeSlot: 18
+A at 10/05/2017, 06:09: AM: removeId: 2497
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingOther, Packet type: 130. Packet size: 0
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WearItem, Packet type: 41. Packet size: 6
+A at 10/05/2017, 06:09: AM: wearId: 2503
+A at 10/05/2017, 06:09: AM: wearSlot: 0
+A at 10/05/2017, 06:09: AM: interfaceId: 3214
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WearItem, Packet type: 41. Packet size: 6
+A at 10/05/2017, 06:09: AM: wearId: 2497
+A at 10/05/2017, 06:09: AM: wearSlot: 1
+A at 10/05/2017, 06:09: AM: interfaceId: 3214
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WalkingMinimapClick, Packet type: 248. Packet size: 23
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WalkingNpcOrObjectClick, Packet type: 98. Packet size: 5
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 136. Packet size: 0
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ChallengePlayer, Packet type: 128. Packet size: 2
+A at 10/05/2017, 06:09: AM: answerPlayer: Sasuke65
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingButton, Packet type: 185. Packet size: 2
+A at 10/05/2017, 06:09: AM: buttonId: 26018
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingButton, Packet type: 185. Packet size: 2
+A at 10/05/2017, 06:09: AM: buttonId: 25120
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 86. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 86. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 86. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending ClickingInGame, Packet type: 241. Packet size: 4
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending WalkingNpcOrObjectClick, Packet type: 98. Packet size: 7
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending AttackPlayerNormal, Packet type: 73. Packet size: 2
+A at 10/05/2017, 06:09: AM: victimId: 11
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 77. Packet size: 12
+-------------------------------------------------------------
+A at 10/05/2017, 06:09: AM: Sending Invalid/Unknown packet!, Packet type: 3. Packet size: 1

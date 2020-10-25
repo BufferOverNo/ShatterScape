@@ -1,0 +1,21 @@
+// Items cannot be sold to the shop or price checked to sell to the shop.
+// Make sure the int[] array length is large enough to store these items. Last size checked is 25.
+
+13742 // Elysian spirit shield
+13738 // Arcane spirit shield
+13744 // Spectral spirit shield
+13736 // Blessed spirit shield
+13734 // Spirit shield
+11284 // Dragonfire shield
+14484 // Dragon claws
+18771 // Dragon warhammer
+18783 // Toxic staff of the dead
+18781 // Staff of the dead
+18834 // Dragon sword
+18832 // Twisted buckler
+4067 // Vote ticket
+7478 // Donator token
+11710 // Godsword shard
+11712 // Godsword shard
+11714 // Godsword shard
+11690 // Godsword blade

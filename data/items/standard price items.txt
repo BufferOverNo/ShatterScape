@@ -1,0 +1,54 @@
+// Green dragon loot.
+1753
+536
+// Blue dragonhide
+1751
+// Red dragonhide
+1749
+
+// Lava dragon loot.
+18821
+18823
+1747
+
+962 // Christmas cracker
+10334 // 3rd age range coif
+10330 // 3rd age range top
+10332 // 3rd age range legs
+10336 // 3rd age vambraces
+10342 // 3rd age mage hat
+10338 // 3rd age robe top
+10340 // 3rd age robe
+10344 // 3rd age amulet
+10350 // 3rd age full helmet
+10348 // 3rd age platebody
+10346 // 3rd age platelegs
+10352 // 3rd age kiteshield
+18725 // 3rd age cloak
+18723 // 3rd age longsword
+1053 // Green h'ween mask.
+1055 // Blue h'ween mask
+1057 // Red h'ween mask
+7042 // Black santa hat
+1050 // Santa hat
+
+18840 // Blood money 7k (Donator one)
+18842 // Blood money 1.5k (Vote one)
+
+14876 // Ancient statuette
+14877 // Seren statuette
+14878 // Armadyl statuette
+14879 // Zamorak statuette
+14880 // Saradomin statuette
+14881 // Bandos statuette
+14882 // Ruby chalice
+14883 // Guthxian brazier
+14884 // Armadyl totem
+14885 // Zamorak medallion
+14886 // Saradomin carving
+14887 // Bandos scrimshaw
+14888 // Saradomin amphora
+14889 // Ancient psaltery bridge
+14890 // Bronzed dragon claw
+14891 // Third age carafe
+14892 // Broken statue headdress

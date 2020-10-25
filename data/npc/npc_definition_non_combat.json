@@ -1,0 +1,367 @@
+[
+	{
+		"npc_name": "Wise Old Man",
+		"npc_type": 2566,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Adam",
+		"npc_type": 11257,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Mandrith",
+		"npc_type": 11261,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Cleaner",
+		"npc_type": 5916,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Fair",
+		"npc_type": 534,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Cow31337Killer",
+		"npc_type": 5210,
+		"roam_distance": 6
+	},
+	{
+		"npc_name": "Hans",
+		"npc_type": 0,
+		"roam_distance": 15
+	},
+	{
+		"npc_name": "Sheep",
+		"npc_type": 43,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Sheep",
+		"npc_type": 42,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Vannaka",
+		"npc_type": 1597,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 6538,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Sigmund The Merchant",
+		"npc_type": 1282,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Thessalia",
+		"npc_type": 548,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Bob",
+		"npc_type": 519,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Sir Prysin",
+		"npc_type": 883,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Guide",
+		"npc_type": 7949,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Horvik",
+		"npc_type": 549,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Void Knight",
+		"npc_type": 3788,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Teleporter",
+		"npc_type": 5196,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 494,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 495,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 496,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Banker",
+		"npc_type": 497,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Gundai",
+		"npc_type": 902,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Aggie",
+		"npc_type": 922,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 162,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Gnome trainer",
+		"npc_type": 2649,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Martin the Master Gardener",
+		"npc_type": 3299,
+		"roam_distance": 12
+	},
+	{
+		"npc_name": "Mage of Zamorak",
+		"npc_type": 2258,
+		"roam_distance": 12
+	},
+	{
+		"npc_name": "Shrimp",
+		"npc_type": 316,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Lobster",
+		"npc_type": 324,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Dark crab",
+		"npc_type": 325,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Monkfish",
+		"npc_type": 326,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Shark",
+		"npc_type": 334,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Man",
+		"npc_type": 1,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kaqemeex",
+		"npc_type": 455,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Hickton",
+		"npc_type": 575,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Wilfred",
+		"npc_type": 4906,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Ajjat",
+		"npc_type": 4288,
+		"roam_distance": 7
+	},
+	{
+		"npc_name": "Sloane",
+		"npc_type": 4297,
+		"roam_distance": 7
+	},
+	{
+		"npc_name": "Master Chef",
+		"npc_type": 847,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Armour salesman",
+		"npc_type": 682,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Brother Jered",
+		"npc_type": 802,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Surgeon General Tafani",
+		"npc_type": 961,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Robe Store Owner",
+		"npc_type": 1658,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Master Fisher",
+		"npc_type": 308,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Ignatius Vulcan",
+		"npc_type": 4946,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Master Crafter",
+		"npc_type": 805,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Thurgo",
+		"npc_type": 604,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Dwarf",
+		"npc_type": 3295,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Aubury",
+		"npc_type": 553,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Duradel",
+		"npc_type": 8275,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Melee combat tutor",
+		"npc_type": 705,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Martin Thwait",
+		"npc_type": 2270,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Cap'n Izzy No-Beard",
+		"npc_type": 437,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "TzHaar-Mej-Jal",
+		"npc_type": 2617,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "TzHaar Ket-Zuh",
+		"npc_type": 2619,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Gnome glider",
+		"npc_type": 2650,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Bandit",
+		"npc_type": 1927,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Kamfreena",
+		"npc_type": 4289,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Jatix",
+		"npc_type": 587,
+		"roam_distance": 12
+	},
+	{
+		"npc_name": "Shopkeeper",
+		"npc_type": 528,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Drogo dwarf",
+		"npc_type": 579,
+		"roam_distance": 16
+	},
+	{
+		"npc_name": "Ellis",
+		"npc_type": 2824,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Twiggy O'Korn",
+		"npc_type": 4042,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "TzHaar-Hur-Tel",
+		"npc_type": 2620,
+		"roam_distance": 5
+	},
+	{
+		"npc_name": "Master Farmer",
+		"npc_type": 2234,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Farmer",
+		"npc_type": 7,
+		"roam_distance": 16
+	},
+	{
+		"npc_name": "Al-Kharid warrior",
+		"npc_type": 18,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Hatius Cosaintus",
+		"npc_type": 11258,
+		"roam_distance": 0
+	},
+	{
+		"npc_name": "Barbarian",
+		"npc_type": 3246,
+		"roam_distance": 8
+	},
+	{
+		"npc_name": "Shopkeeper",
+		"npc_type": 526,
+		"roam_distance": 2
+	},
+	{
+		"npc_name": "Pvp task master",
+		"npc_type": 11259,
+		"roam_distance": 0
+	}
+]

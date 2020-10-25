@@ -1,0 +1,364 @@
+7011 400,000 // Rainbow partyhat
+962 400,000 // Christmas cracker
+1038 400,000 // Partyhat
+1040 400,000 // Partyhat
+1048 400,000 // Partyhat
+1044 400,000 // Partyhat
+1042 400,000 // Partyhat
+1046 400,000 // Partyhat
+18739 400,000 // Partyhat
+18830 750,000 // Twisted bow
+10334 70,000 // 3rd age range coif
+10330 200,000 // 3rd age range top
+10332 175,000 // 3rd age range legs
+10336 30,000 // 3rd age vambraces
+10342 100,000 // 3rd age mage hat
+10338 200,000 // 3rd age robe top
+10340 175,000 // 3rd age robe
+10344 30,000 // 3rd age amulet
+10350 100,000 // 3rd age full helmet
+10348 200,000 // 3rd age platebody
+10346 175,000 // 3rd age platelegs
+10352 100,000 // 3rd age kiteshield
+18725 200,000 // 3rd age cloak
+18723 200,000 // 3rd age longsword
+1053 100,000 // Green h'ween mask.
+1055 100,000 // Blue h'ween mask
+1057 100,000 // Red h'ween mask
+7042 200,000 // Black santa hat
+1050 100,000 // Santa hat
+13750 700,000 // Elysian sigil
+13742 700,000 // Elysian spirit shield
+13746 100,000 // Arcane sigil
+13738 100,000 // Arcane spirit shield
+18848 90,000 // Dexterous prayer scroll
+18849 70,000 // Arcane prayer scroll
+14484 75,000 // Dragon claws (default 150k)
+18771 70,000 // Dragon warhammer
+18826 62,000 // Elder maul
+11694 60,000 // Armadyl godsword (30k default)
+11702 50,000 // Armadyl hilt
+13752 50,000 // Spectral sigil
+13744 50,000 // Spectral spirit shield
+18807 55,000 // Heavy ballista
+18832 35,000 // Twisted buckler
+18753 28,000 // Pegasian boots (best ranged boots)
+11286 25,500 // Draconic visage
+11284 25,500 // Dragonfire shield (default 12.5k)
+11726 25,000 // Bandos tassets
+18642 25,000 // Armadyl crossbow
+18747 22,000 // Primordial crystal
+18755 22,500 // Primordial boots
+11720 22,000 // Armadyl chestplate
+18843 20,000 // Malediction ward
+18845 20,000 // Odium ward
+18836 18,000 // Dragon hunter crossbow
+18817 16,000 // Tormented bracelet
+18809 16,000 // Amulet of torture
+18815 16,000 // Necklace of anguish
+18811 16,000 // Ring of suffering
+11722 15,000 // Armadyl plateskirt
+11698 15,000 // Saradomin godsword (default 45k)
+11706 12,000 // Saradomin hilt
+11335 14,000 // Dragon full helm
+11724 12,500 // Bandos chestplate
+14479 11,000 // Dragon platebody
+18820 20,000 // Rune pouch
+18757 2,000 // Infernal axe
+18758 4,000 // Infernal pickaxe
+18783 10,000 // Toxic staff of the dead
+13902 10,000 // Statius's warhammer (has to be here because bot uses it)
+18674 10,000 // Max cape.
+18675 10,000 // Fire max cape.
+18676 10,000 // Saradomin max cape.
+18677 10,000 // Zamorak max cape.
+18678 10,000 // Guthix max cape.
+18679 10,000 // Ava's max cape.
+18785 9,000 // Abyssal dagger (p++)
+6889 9,000 // Mages' book
+18779 13,000 // Toxic blowpipe
+18781 8,000 // Staff of the dead (5k default, don't have venom on here)
+18751 9,000 // Eternal boots
+18767 5,000 // Abyssal tentacle (default is 1.9m osrs for 10k hits)
+6916 6,000 // Infinity top
+6924 5,500 // Infinity bottoms
+18743 7,000 // Eternal crystal
+18751 7,000 // Eternal boots
+11730 6,000 // Saradomin sword (default 1k)
+18660 5,000 // Sara's blessed sword (must be same price as Saradomin sword)
+10551 5,000 // Fighter torso.
+18775 14,000 // Magma helm
+18773 14,000 // Tanzanite helm
+18769 4,000 // Trident of the swamp
+6737 4,000 // Berserker ring
+18777 12,000 // Serpentine helm
+6914 4,000 // Master wand
+4225 4,000 // Crystal shield full
+13263 4,000 // Slayer helmet
+18834 3,000 // Dragon sword
+11665 1,000 // Void melee helm
+11664 1,000 // Void ranger helm
+11663 1,000 // Void mage helm
+8839 2,000 // Void knight top
+8840 2,000 // Void knight robe bottom
+8842 1,000 // Void knight gloves
+10156 1,000 // Hunter's crossbow
+6918 4,000 // Infinity hat
+11716 7,000 // Zamorakian spear
+7478 700 // Donator token
+11696 15,000 // Bandos godsword (default 3k)
+11704 12,000 // Bandos hilt
+15259 3,000 // Dragon pickaxe
+6585 6,000 // Amulet of fury (default 3k)
+13736 3,000 // Blessed spirit shield (1k default)
+11700 15,000 // Zamorak godsword (default 3k)
+11708 12,000 // Zamorak hilt
+10548 1,000 // Fighter hat
+10547 1,000 // Healer hat
+10549 1,000 // Runner hat
+10550 1,000 // Ranger hat
+11718 2,000 // Armadyl helmet
+18789 2,000 // Book of law
+4151 1,500 // Abyssal whip
+1249 500 // Dragon spear
+6733 4,000 // Archers ring
+4708 750 // Ahrim's hood
+4710 1,000 // Ahrim's staff
+4712 2,000 // Ahrim's robetop
+4714 2,000 // Ahrim's robeskirt
+4716 1,000 // Dharok's helm
+4718 1,000 // Dharok's greataxe
+4720 2,000 // Dharok's platebody
+4722 2,000 // Dharok's platelegs
+4724 750 // Guthan's helm
+4726 1,000 // Guthan's warspear
+4728 1,500 // Guthan's platebody
+4730 1,250 // Guthan's chainskirt
+4732 750 // Karil's coif
+4734 1,000 // Karil's crossbow
+4736 1,500 // Karil's leathertop
+4738 1,250 // Karil's leatherskirt
+4745 750 // Torag's helm
+4747 1,000 // Torag's hammers
+4749 2,000 // Torag's platebody
+4751 1,750 // Torag's platelegs
+4753 750 // Verac's helm
+4755 1,000 // Verac's flail
+4757 1,500 // Verac's brassard
+4759 1,250 // Verac's plateskirt
+4860 650 // Ahrim's hood 0
+4866 900 // Ahrim's staff 0
+4872 1,900 // Ahrim's top 0
+4878 1,900 // Ahrim's skirt 0
+4884 900 // Dharok's helm 0
+4896 1,900 // Dharok's body 0
+4890 900 // Dharok's axe 0
+4902 1,900 // Dharok's legs 0
+4932 650 // Karil's coif 0
+4938 900 // Karil's x-bow 0
+4944 1,400 // Karil's top 0
+4950 1,150 // Karil's skirt 0
+4908 650 // Guthan's helm 0
+4914 900 // Guthan's spear 0
+4920 1,400 // Guthan's body 0
+4926 1,150 // Guthan's skirt 0
+4956 650 // Torag's helm 0
+4962 900 // Torag's hammers 0
+4968 1,900 // Torag's body 0
+4974 1,650 // Torag's legs 0
+4980 650 // Verac's helm 0
+4986 900 // Verac's flail 0
+4992 1,400 // Verac's top 0
+4998 1,150 // Verac's skirt 0
+6922 2,000 // Infinity gloves
+6920 2,000 // Infinity boots
+6739 1,000 // Dragon axe
+18759 1,000 // Dragon defender
+7462 1,000 // Barrows gloves
+4153 1,000 // Granite maul
+3140 1,000 // Dragon chainbody
+4067 300 // Vote ticket
+18790 1,000 // Book of darkness
+11235 1,000 // Dark bow
+13734 1,000 // Spirit shield
+18749 1,000 // Smouldering stone
+8013 500 // Teleport to house
+18840 7,000 // Blood money 7k (Donator one)
+18842 1,500 // Blood money 1.5k (Vote one)
+18765 16,000 // Occult necklace (default 1k)
+15020 1,000 // Warrior ring (i)
+18654 1,000 // Ring of wealth scroll
+18655 1,000 // Magic shortbow scroll
+18659 1,000 // Magic shortbow (i)
+15220 5,000 // Berserker ring (i)
+18657 1,000 // Saradomin's tear
+18658 3,000 // Looting bag
+15349 1,000 // Ardougne cloak 4
+18663 1,000 // Hunter's honour
+18664 1,000 // Rogue's revenge
+18661 9,000 // Granite clamp
+18662 10,000 // Granite maul (or)
+18745 1,000 // Pegasian crystal
+15241 5,000 // Hand cannon
+18813 17,000 // Ring of suffering (i)
+18814 18,000 // Ring of suffering (ri)
+18671 5,000 // Tyrannical ring (i)
+18672 2,000 // Treasonous ring (i)
+18673 8,500 // Ring of the gods (i)
+10887 1,000 // Barrelchest anchor
+15018 2,000 // Seers' ring (i)
+15019 5,000 // Archers' ring (i)
+18665 4,000 // Tyrannical ring
+11710 1,000 // Godsword shard
+11712 1,000 // Godsword shard
+11714 1,000 // Godsword shard
+11690 3,000 // Godsword blade
+18667 1,000 // Treasonous ring
+6570 2,000 // Fire cape
+18669 7,500 // Ring of the gods
+7158 2,000 // Dragon 2h sword (500 default)
+6735 500 // Warrior ring
+6731 1,000 // Seer's ring
+11728 500 // Bandos boots
+11090 50 // Phoenix necklace
+18637 10 // Dark crab
+2550 50 // Ring of recoil
+2577 20,000 // Ranger boots
+2579 1,000 // Wizard boots
+2581 2,000 // Robin hood hat
+1187 500 // Dragon sq shield
+4087 500 // Dragon platelegs
+11732 500 // Dragon boots
+4585 300 // Dragon plateskirt
+1753 20 // Green dragonhide
+1751 25 // Blue dragonhide
+1749 30 // Red dragonhide
+536 28 // Dragon bones
+18821 75 // Lava dragon bones
+1747 50 // Black dragonhide
+18823 40 // Lava scale
+1149 100 // Dragon med helm
+6524 150 // Toktz-ket-xil (Obby shield)
+11128 3,000 // Berserker necklace
+5698 150 // Dragon dagger (p++)
+13879 100 // Morrigan's javelin
+13883 100 // Morrigan's throwing axe
+3144 100 // Cooked karambwan
+15243 35 // Hand cannon shot
+18799 50 // Super combat potion(4)
+10925 20 // Sanfew serum(4)
+3016 20 // Stamina potion(4)
+12437 25 // Magic focus scroll
+18819 35 // Dragon javelin
+6522 25 // Toktz-xil-ul
+11230 20 // Dragon dart
+11212 20 // Dragon arrow
+2366 50 // Shield left half
+2368 50 // Shield right half
+18644 1 // Blood money
+
+
+// Artefacts.
+14876 5,000 // Ancient statuette
+14877 1,250 // Seren statuette
+14878 1000 // Armadyl statuette
+14879 700 // Zamorak statuette
+14880 650 // Saradomin statuette
+14881 600 // Bandos statuette
+14882 550 // Ruby chalice
+14883 500 // Guthxian brazier
+14884 450 // Armadyl totem
+14885 400 // Zamorak medallion
+14886 350 // Saradomin carving
+14887 300 // Bandos scrimshaw
+14888 250 // Saradomin amphora
+14889 200 // Ancient psaltery bridge
+14890 150 // Bronzed dragon claw
+14891 100 // Third age carafe
+14892 50 // Broken statue headdress
+
+// Harvested items, these can only be sold for profit and standard price is set.
+// All items under here will be harvested = true.
+
+563 1 // Law rune
+560 1 // Death rune
+565 2 // Blood rune
+566 2 // Soul rune
+2428 10 // Attack potion(4)
+2446 10 // Antipoison(4)
+113 10 // Strength potion(4)
+2430 10 // Restore potion(4)
+3008 10 // Energy potion(4)
+2432 10 // Defence potion(4)
+2434 10 // Prayer potion(4)
+2436 10 // Super attack(4)
+3016 10 // Stamina(4)
+2440 10 // Super strength(4)
+3024 10 // Super restore(4)
+2442 10 // Super defence(4)
+2452 10 // Antifire potion(4)
+2444 10 // Ranging potion(4)
+3040 10 // Magic potion(4)
+6685 10 // Saradomin brew(4)
+121 7 // Attack potion(3)
+175 7 // Antipoison(3)
+115 7 // Strength potion(3)
+127 8 // Restore potion(3)
+3010 8 // Energy potion(3)
+133 8 // Defence potion(3)
+139 9 // Prayer potion(3)
+145 9 // Super attack(3)
+3018 9 // Stamina(3)
+157 10 // Super strength(3)
+3026 10 // Super restore(3)
+163 11 // Super defence(3)
+2454 11 // Antifire potion(3)
+169 12 // Ranging potion(3)
+3042 12 // Magic potion(3)
+2450 13 // Zamorak brew(4)
+6687 14 // Saradomin brew(3)
+1601 2 // Diamond
+1603 2 // Ruby
+1605 2 // Emerald
+1607 2 // Sapphire
+1615 2 // Dragonstone
+841 2 // Shortbow
+839 2 // Longbow
+843 3 // Oak shortbow
+845 3 // Oak longbow
+849 4 // Willow shortbow
+847 4 // Willow longbow
+857 5 // Yew shortbow
+855 5 // Yew longbow
+861 6 // Magic shortbow
+859 6 // Magic longbow
+436 4 // Copper ore
+438 4 // Tin ore
+440 6 // Iron ore
+453 8 // Coal
+447 10 // Mithril ore
+449 12 // Adamantite ore
+451 14 // Runite ore
+18635 10 // Raw dark crab
+18637 15 // Dark crab
+383 6 // Raw shark
+385 9 // Shark
+7944 5 // Raw monkfish
+7946 8 // Monkfish
+371 4 // Raw swordfish
+373 7 // Swordfish
+359 4 // Raw tuna
+361 7 // Tuna
+377 3 // Raw lobster
+379 5 // Lobster
+331 3 // Raw salmon
+329 5 // Salmon
+335 3 // Raw trout
+333 4 // Trout
+317 2 // Raw shrimp
+315 3 // Shrimp
+1513 9 // Magic logs
+1515 7 // Yew logs
+1519 5 // Willow logs
+1521 4 // Oak logs
+1511 3 // Logs

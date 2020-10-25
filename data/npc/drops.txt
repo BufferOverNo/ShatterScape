@@ -1,0 +1,213 @@
+// false means do not announce.
+// add the highest rarity drop first.
+// 1 in x, itemId, amount, // name.
+
+// Battle mage
+Npc: 912
+200 6889 1 // Mages' book
+200 6914 1 // Master wand
+200 6920 1 false // Infinity boots
+200 6922 1 false // Infinity gloves
+200 6918 1 false // Infinity hat
+200 6924 1 false // Infinity bottoms
+200 6916 1 false // Infinity top
+20 995 1000000 false // Blood money
+
+// Battle mage
+Npc: 913
+400 6889 1 // Mages' book
+400 6914 1 // Master wand
+200 6920 1 false // Infinity boots
+200 6922 1 false // Infinity gloves
+200 6918 1 false // Infinity hat
+200 6924 1 false // Infinity bottoms
+200 6916 1 false // Infinity top
+20 995 1000000 false // Blood money
+
+// Battle mage
+Npc: 914
+400 6889 1 // Mages' book
+400 6914 1 // Master wand
+200 6920 1 false // Infinity boots
+200 6922 1 false // Infinity gloves
+200 6918 1 false // Infinity hat
+200 6924 1 false // Infinity bottoms
+200 6916 1 false // Infinity top
+20 995 1000000 false // Blood money
+
+// Tormented demon
+Npc: 8349
+400 14484 1 // Dragon claws
+80 3140 1 // Dragon chainbody
+60 1187 1 false // Dragon sq shield
+60 4087 1 false // Dragon platelegs
+30 11732 1 false // Dragon boots
+60 4585 1 false // Dragon plateskirt
+6 995 10000000 false // Blood money
+
+// Tormented demon
+Npc: 8350
+400 14484 1 // Dragon claws
+80 3140 1 // Dragon chainbody
+60 1187 1 false // Dragon sq shield
+60 4087 1 false // Dragon platelegs
+30 11732 1 false // Dragon boots
+60 4585 1 false // Dragon plateskirt
+6 995 10000000 false // Blood money
+
+// Tormented demon
+Npc: 8351
+400 14484 1 // Dragon claws
+80 3140 1 // Dragon chainbody
+60 1187 1 false // Dragon sq shield
+60 4087 1 false // Dragon platelegs
+30 11732 1 false // Dragon boots
+60 4585 1 false // Dragon plateskirt
+6 995 10000000 false // Blood money
+
+// Callisto
+Npc: 4040
+70 18834 1 // Dragon sword
+50 15259 1 false // Dragon pickaxe
+50 7158 1 false // Dragon 2h sword
+50 18665 1 false // Tyrannical ring
+10 18638 30-90 false // Dark crab
+9 995 10000000 false // Blood money
+
+// Ice Strykewyrm
+Npc: 9463
+275 18783 1 // Toxic staff of the dead
+170 18781 1 // Staff of the dead
+6 995 1000000 false // Blood money
+
+// Lava dragon NOTE: must change manually NpcDropTableInterface!
+Npc: 11260
+650 11284 1 // Dragonfire shield
+
+// Chaos elemental
+Npc: 3200
+340 18771 1 // Dragon warhammer
+40 15259 1 false // Dragon pickaxe
+40 7158 1 false // Dragon 2h sword
+6 995 10000000 false // Blood money
+
+// Venenatis
+Npc: 4043
+250 18832 1 // Twisted buckler
+40 18667 1 false // Treasonous ring
+40 7158 1 false // Dragon 2h sword
+40 15259 1 false // Dragon pickaxe
+20 18638 30-120 false // Dark crab
+6 995 10000000 false // Blood money
+
+// Nechryael
+Npc: 1613
+20 11732 1 false // Dragon boots
+10 995 100000 false // Blood money
+
+// Abyssal demon
+Npc: 1615
+30 4151 1 false // Abyssal whip
+10 995 100000 false // Blood money
+
+// Dark beast
+Npc: 2783
+30 11235 1 false // Dark bow
+10 11212 8-16 false // Dragon arrows
+10 995 100000 false // Blood money
+
+// Dust devil
+Npc: 1624
+100 3140 1 false // Dragon chainbody
+10 995 100000 false // Blood money
+
+// Iron Dragon
+Npc: 1591
+1508 11286 1 // Draconic visage
+30 4087 1 false // Dragon platelegs
+30 4585 1 false // Dragon plateskirt
+30 1149 1 false // Dragon med helm
+30 2366 1 false // Shield left half
+5 995 100000 false // Blood money
+
+// Steel Dragon
+Npc: 1592
+1508 11286 1 // Draconic visage
+312 4087 1 false // Dragon platelegs
+312 4585 1 false // Dragon plateskirt
+312 1149 1 false // Dragon med helm
+312 2366 1 false // Shield left half
+
+// Black dragon
+Npc: 54
+1508 11286 1 // Draconic visage
+5 995 100000 false // Blood money
+
+// King Black Dragon
+Npc: 50
+300 11286 1 // Draconic visage
+4 995 100000 false // Blood money
+
+// Dagannoth Supreme
+Npc: 2881
+30 6733 1 false // Archers ring
+30 6739 1 false // Dragon axe
+6 995 100000 false // Blood money
+
+// Dagannoth Prime
+Npc: 2882
+30 6731 1 false // Seer's ring
+30 6739 1 false // Dragon axe
+6 995 100000 false // Blood money
+
+// Dagannoth Rex
+Npc: 2883
+30 6737 1 false // Berserker ring
+30 6735 1 false // Warrior ring
+30 6739 1 false // Dragon axe
+6 995 100000 false // Blood money
+
+// K'ril Tsutsaroth
+Npc: 6203
+308 11708 1 // Zamorak hilt  11708 1
+128 11716 1 // Zamorakian spear
+6 995 10000000 false // Blood money
+
+// Commander Zilyana
+Npc: 6247
+308 11706 1 // Saradomin hilt
+308 18642 1 // Armadyl crossbow
+128 11730 1 // Saradomin sword
+9 995 10000000 false // Blood money
+
+// General Graardor
+Npc: 6260
+250 11704 1 // Bandos hilt 11704
+200 11724 1 // Bandos chestplate
+200 11726 1 // Bandos tassets
+200 11728 1 // Bandos boots
+6 995 10000000 false // Blood money
+
+// Kree'arra
+Npc: 6222
+356 11702 1 // Armadyl hilt
+270 11718 1 // Armadyl helmet
+270 11720 1 // Armadyl chestplate
+270 11722 1 // Armadyl plateskirt
+6 995 10000000 false // Blood money
+
+// Cerberus
+Npc: 4045
+512 18743 1 // Eternal crystal
+512 18745 1 // Pegasian crystal
+512 18747 1 // Primordial crystal
+512 18749 1 // Smouldering crystal
+
+// Corporeal beast
+Npc: 8133
+2520 13748 1 // Divine spirit shield
+1524 13750 1 // Elysian spirit shield
+508 13752 1 // Spectral spirit shield
+508 13746 1 // Arcane spirit shield
+
+// End
