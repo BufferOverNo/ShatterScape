@@ -330,7 +330,7 @@ public class FourOptions
 
 						// King Arthur.
 						case 257:
-								player.getPA().sendMessage(":packet:website www.dawntained.com/donate");
+								player.getPA().sendMessage(":packet:website www.shatterscape.com/donate");
 								player.getPA().closeInterfaces();
 								break;
 

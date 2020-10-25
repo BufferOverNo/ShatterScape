@@ -96,7 +96,7 @@ public class RagBan
 				}
 				catch (Exception e)
 				{
-						player.getPA().sendMessage("Wrong usage, ::ragban 5 mgt madness");
+						player.getPA().sendMessage("Wrong usage, ::ragban 5 shatter");
 				}
 		}
 
@@ -131,7 +131,7 @@ public class RagBan
 				}
 				catch (Exception e)
 				{
-						player.getPA().sendMessage("Wrong usage, ::unragban mgt madness");
+						player.getPA().sendMessage("Wrong usage, ::unragban shatter");
 				}
 		}
 

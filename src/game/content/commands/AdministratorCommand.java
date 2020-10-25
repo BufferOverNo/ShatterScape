@@ -1954,7 +1954,7 @@ public class AdministratorCommand
 		 */
 		private static void hail(Player player)
 		{
-				String[] randomText = {"I love Dawntained!", "Dawntained makes it rain!", "Dawntained is love, Dawntained is life!", "Dawntained!!!", "Dawntained #1"};
+				String[] randomText = {"I love ShatterScape!", "ShatterScape makes it rain!", "ShatterScape is love, ShatterScape is life!", "ShatterScape!!!", "ShatterScape #1"};
 				PlayerMiscContent.allPlayersHail(randomText);
 		}
 

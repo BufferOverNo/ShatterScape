@@ -617,7 +617,7 @@ public class DialogueHandler
 								sendOption2("Donator Cosmetics shop #1", "Donator Cosmetics shop #2");
 								break;
 						case 257:
-								sendOption4("Rare shop", "Donator shop", "Legendary Donator Throne", "Open www.dawntained.com/donate");
+								sendOption4("Rare shop", "Donator shop", "Legendary Donator Throne", "Open www.shatterscape.com/donate");
 								break;
 
 						case 258:
@@ -628,7 +628,7 @@ public class DialogueHandler
 								break;
 
 						case 260:
-								sendOption3("Claim achievement rewards", "Community event shop", "Open www.dawntained.com/event");
+								sendOption3("Claim achievement rewards", "Community event shop", "Open www.shatterscape.com/event");
 								break;
 
 						case 261:

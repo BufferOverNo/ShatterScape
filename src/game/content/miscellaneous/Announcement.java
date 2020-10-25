@@ -1,6 +1,7 @@
 package game.content.miscellaneous;
 
 import core.ServerConstants;
+import game.content.donator.DonationsNeeded;
 import game.player.PlayerHandler;
 import utility.Misc;
 
@@ -123,14 +124,10 @@ public class Announcement
 				if (mainTick == MINUTES * 100)
 				{
 						mainTick = 0;
-						/*
 						if (Misc.hasOneOutOf(message.length / 3))
 						{
-								announce("Dawntained needs " + DonationsNeeded.currentDonationAmount + "/" + DonationsNeeded.DONATIONS_NEEDED + "$ for this month to maintain a growing playerbase.");
+								announce("ShatterScape needs " + DonationsNeeded.currentDonationAmount + "/" + DonationsNeeded.DONATIONS_NEEDED + "$ for this month to maintain a growing playerbase.");
 						}
-						else
-						{
-						*/
 						announce(message[value], "<img=20><col=0000ff>");
 						value++;
 						if (value > message.length - 1)

@@ -66,7 +66,7 @@ public class Ban
 				}
 				catch (Exception e)
 				{
-						player.getPA().sendMessage("Wrong usage, ::accountban mgt madness");
+						player.getPA().sendMessage("Wrong usage, ::accountban shatter");
 				}
 		}
 
@@ -99,7 +99,7 @@ public class Ban
 				}
 				catch (Exception e)
 				{
-						player.getPA().sendMessage("Wrong usage, ::unban mgt madness");
+						player.getPA().sendMessage("Wrong usage, ::unban shatter");
 				}
 		}
 

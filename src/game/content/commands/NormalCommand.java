@@ -122,7 +122,7 @@ public class NormalCommand
 						try
 						{
 								int threadId = Integer.parseInt(playerCommand.substring(7));
-								player.getPA().sendMessage(":packet:website www.dawntained.com/forums/topic/" + threadId + "-dawntained");
+								player.getPA().sendMessage(":packet:website www.shatterscape.com/forums/topic/" + threadId + "-shatterscape");
 						}
 						catch (Exception e)
 						{
@@ -134,7 +134,7 @@ public class NormalCommand
 						try
 						{
 								int threadId = Integer.parseInt(playerCommand.substring(6));
-								player.getPA().sendMessage(":packet:website www.dawntained.com/forums/forum/" + threadId + "-dawntained");
+								player.getPA().sendMessage(":packet:website www.shatterscape.com/forums/forum/" + threadId + "-shatterscape");
 						}
 						catch (Exception e)
 						{
@@ -266,16 +266,16 @@ public class NormalCommand
 
 				else if (playerCommand.startsWith("forum"))
 				{
-						player.getPA().sendMessage(":packet:website www.dawntained.com/forums");
+						player.getPA().sendMessage(":packet:website www.shatterscape.com/forums");
 				}
 				else if (playerCommand.startsWith("donate"))
 				{
-						player.getPA().sendMessage(":packet:website www.dawntained.com/donate");
+						player.getPA().sendMessage(":packet:website www.shatterscape.com/donate");
 						player.getPA().sendMessage("Type in ::claimdonation when you have donated.");
 				}
 				else if (playerCommand.equals("vote"))
 				{
-						player.getPA().sendMessage(":packet:website www.dawntained.com/vote");
+						player.getPA().sendMessage(":packet:website www.shatterscape.com/vote");
 						player.getPA().sendMessage("Type in ::claimvote when you have voted.");
 				}
 				else if (playerCommand.startsWith("discord"))
@@ -284,11 +284,11 @@ public class NormalCommand
 				}
 				else if (playerCommand.startsWith("guide") || playerCommand.startsWith("help"))
 				{
-						player.getPA().sendMessage(":packet:website www.dawntained.com/forum/index.php?board=9.0");
+						player.getPA().sendMessage(":packet:website www.shatterscape.com/forum/index.php?board=9.0");
 				}
 				else if (playerCommand.startsWith("updates"))
 				{
-						player.getPA().sendMessage(":packet:website www.dawntained.com/forums/forum/10-dawntained-updates/");
+						player.getPA().sendMessage(":packet:website www.shatterscape.com/forums/forum/10-shatterscape-updates/");
 				}
 				else if (playerCommand.startsWith("bots"))
 				{
@@ -387,7 +387,7 @@ public class NormalCommand
 
 				else if (playerCommand.startsWith("clan"))
 				{
-						player.getPA().sendMessage(":packet:website www.dawntained.com/forum/index.php?board=17.0");
+						player.getPA().sendMessage(":packet:website www.shatterscape.com/forum/index.php?board=17.0");
 				}
 
 				else if (playerCommand.startsWith("forcelogout"))

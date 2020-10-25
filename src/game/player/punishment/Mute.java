@@ -86,7 +86,7 @@ public class Mute
 				}
 				catch (NumberFormatException | StringIndexOutOfBoundsException | ArrayIndexOutOfBoundsException a)
 				{
-						player.playerAssistant.sendMessage("Invalid. Correct use is ::mute 24 mgt madness");
+						player.playerAssistant.sendMessage("Invalid. Correct use is ::mute 24 shatter");
 				}
 		}
 

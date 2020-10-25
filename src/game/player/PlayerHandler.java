@@ -91,7 +91,7 @@ public class PlayerHandler
 
 		public static int getPlayerCount()
 		{
-				return playerCount - (ServerConfiguration.ENABLE_BOTS ? BotManager.BOTS_AMOUNT : 0);
+				return playerCount + (ServerConfiguration.ENABLE_BOTS ? BotManager.BOTS_AMOUNT : 0);
 		}
 
 		public void updatePlayerNames()

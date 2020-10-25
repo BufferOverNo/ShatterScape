@@ -80,7 +80,7 @@ public class IpMute
 				}
 				catch (Exception e)
 				{
-						player.getPA().sendMessage("Wrong usage, ::unipmute mgt madness");
+						player.getPA().sendMessage("Wrong usage, ::unipmute shatter");
 				}
 		}
 
@@ -126,7 +126,7 @@ public class IpMute
 				}
 				catch (Exception e)
 				{
-						player.getPA().sendMessage("Wrong usage, ::ipmute mgt madness");
+						player.getPA().sendMessage("Wrong usage, ::ipmute shatter");
 				}
 		}
 

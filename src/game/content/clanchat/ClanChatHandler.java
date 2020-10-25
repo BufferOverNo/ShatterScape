@@ -621,18 +621,18 @@ public class ClanChatHandler
 						player.playerAssistant.sendMessage("Your message was not sent because you are sending messages too quickly.");
 						return false;
 				}
-				if (dawntainedClanChat(player) && player.isJailed())
+				if (shatterScapeClanChat(player) && player.isJailed())
 				{
 						player.playerAssistant.sendMessage("You cannot talk in ShatterScape cc while jailed.");
 						return false;
 				}
-				if (dawntainedClanChat(player) && Misc.checkForOffensive(message))
+				if (shatterScapeClanChat(player) && Misc.checkForOffensive(message))
 				{
 						player.playerAssistant.sendMessage("Do not use offensive language in the ShatterScape clan chat.");
 						return false;
 				}
 				int left = 15 - (player.secondsBeenOnline / 60);
-				if (dawntainedClanChat(player) && (player.secondsBeenOnline / 60) < 15)
+				if (shatterScapeClanChat(player) && (player.secondsBeenOnline / 60) < 15)
 				{
 						player.playerAssistant.sendMessage("You have to be online for " + left + " more minutes to use ShatterScape clan chat.");
 						return false;
@@ -648,7 +648,7 @@ public class ClanChatHandler
 		 * @return
 		 * 			True, if player is in Dawntain clan chat.
 		 */
-		private boolean dawntainedClanChat(Player player)
+		private boolean shatterScapeClanChat(Player player)
 		{
 				return clans[player.getClanId()].ownerName.equalsIgnoreCase("ShatterScape");
 		}
