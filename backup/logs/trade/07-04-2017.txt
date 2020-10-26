@@ -1,7 +1,0 @@
-07/04/2017, 11:46: PM TRADE: [Mgt Madness] trading with [A], 3.0m and 0
-07/04/2017, 11:47: PM TRADE: [A] trading with [Mgt Madness], 50000 and 75000
-07/04/2017, 11:48: PM PICKUP: [A] picked up an item that belongs to [A] 69000
-07/04/2017, 11:51: PM PICKUP: [B] picked up an item that belongs to [A] 69000
-07/04/2017, 11:51: PM PICKUP: [A] picked up an item that belongs to [B] 75000
-07/04/2017, 11:51: PM PICKUP: [A] picked up an item that belongs to [B] 69000
-07/04/2017, 11:53: PM STAKE: [A] won vs [B], 144000 vs 69000

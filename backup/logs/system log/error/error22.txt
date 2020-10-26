@@ -1,8 +1,0 @@
-sx.blah.discord.util.DiscordException: Exception (NullPointerException) occurred while logging in: null
-	at sx.blah.discord.api.ClientBuilder.login(ClientBuilder.java:108)
-	at a.c.b(DiscordBot.java:65)
-	at a.c.a(DiscordBot.java:31)
-	at core.Server.main(Server.java:135)
-Exception in thread "main" java.lang.NullPointerException
-	at a.c.a(DiscordBot.java:33)
-	at core.Server.main(Server.java:135)
