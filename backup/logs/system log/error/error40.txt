@@ -1,3 +1,0 @@
-Exception in thread "main" java.lang.NullPointerException
-	at core.Server.loadSystems(Server.java:224)
-	at core.Server.main(Server.java:137)
