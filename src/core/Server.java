@@ -127,7 +127,7 @@ public class Server
 				shutDownButtons();
 				long start = System.currentTimeMillis();
 				timeServerOnline = start;
-				Misc.print("Server loading LATEST...");
+				Misc.print("Loading latest version of ShatterScape");
 				loadSystems();
 				initiateConnections();
 				gameTick();
@@ -143,7 +143,7 @@ public class Server
 				{
 						time = time.substring(0, 2) + "." + time.substring(2);
 				}
-				Misc.print("Server finished loading: " + time + " seconds");
+				Misc.print("ShatterScape has finished loading in: " + time + " seconds");
 
 
 

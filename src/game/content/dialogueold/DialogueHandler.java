@@ -168,7 +168,7 @@ public class DialogueHandler
 						/* End of Red skull feature. */
 
 						case 1:
-								sendNpcChat1("Would you like to repair barrows pieces for 100 each?", 9850);
+								sendNpcChat1("Would you like to repair barrows pieces for 100k each?", 9850);
 								player.nextDialogue = 2;
 								break;
 

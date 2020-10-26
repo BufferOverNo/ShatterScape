@@ -1574,7 +1574,7 @@ public class BotContent
 												}
 												Movement.playerWalk(bot, x, y);
 										}
-										//findBotToAttack(bot);
+										findBotToAttack(bot);
 								}
 								else
 								{
@@ -1589,7 +1589,6 @@ public class BotContent
 				}, 3);
 		}
 
-		@SuppressWarnings("unused")
 		private static void findBotToAttack(Player bot)
 		{
 				if (bot.isMoving())

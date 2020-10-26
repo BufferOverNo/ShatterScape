@@ -316,7 +316,7 @@ public class CommandPacket implements PacketType
 				}
 				NormalCommand.normalCommands(player, playerCommand);
 
-				if (player.isDonator())
+				if (player.isDonator() || player.isAdministratorRank())
 				{
 						if (DonatorCommand.donatorCommands(player, playerCommand))
 						{
